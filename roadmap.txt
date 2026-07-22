@@ -1,0 +1,16 @@
+STEP 1  Project Setup
+STEP 2  Read Dataset
+STEP 3  Display Frames
+STEP 4  Frame Information
+STEP 5  Preprocessing
+STEP 6  Background Subtraction
+STEP 7  Optical Flow
+STEP 8  Motion Magnitude
+STEP 9  Motion Direction
+STEP 10 Motion Instability Index (MII)
+STEP 11 Direction Conflict Index (DCI)
+STEP 12 Density Estimation
+STEP 13 Congestion Pressure Index (CPI)
+STEP 14 Crowd Risk Index (CRI)
+STEP 15 Risk Visualization
+STEP 16 Testing
