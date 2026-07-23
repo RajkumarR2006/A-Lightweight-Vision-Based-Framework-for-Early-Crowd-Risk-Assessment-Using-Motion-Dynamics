@@ -14,3 +14,33 @@ STEP 13 Congestion Pressure Index (CPI)
 STEP 14 Crowd Risk Index (CRI)
 STEP 15 Risk Visualization
 STEP 16 Testing
+
+-----------------------------------------------------------------------------------------------------------------
+Module 1:
+MII:
+Input
+
+↓
+
+Optical Flow
+
+↓
+
+Magnitude
+
+↓
+
+Calculate Mean
+
+↓
+
+Calculate Standard Deviation
+
+↓
+
+Normalize
+
+↓
+
+Motion Instability Index
+-----------------------------------------------------------------------------------------------------------------------------
