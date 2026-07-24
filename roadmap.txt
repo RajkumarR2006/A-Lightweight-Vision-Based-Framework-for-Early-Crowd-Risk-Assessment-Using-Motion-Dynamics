@@ -44,3 +44,26 @@ Normalize
 
 Motion Instability Index
 -----------------------------------------------------------------------------------------------------------------------------
+Module 2: Direction conflict index
+
+Optical Flow
+      │
+      ▼
+Angle Matrix
+      │
+      ▼
+Convert Degrees → Radians
+      │
+      ▼
+Compute cos(θ) and sin(θ)
+      │
+      ▼
+Average the vectors
+      │
+      ▼
+Compute resultant length R
+      │
+      ▼
+DCI = 1 − R
+
+------------------------------------------------------------------------------------------------------------------------
