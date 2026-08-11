@@ -4,8 +4,7 @@ import os
 # -----------------------------
 # CHANGE THIS PATH
 # -----------------------------
-sequence_path = r"datasets/UCSD_Anomaly_Dataset.v1p2/UCSDped1/Train/Train001"
-
+sequence_path = r"E:\PROJECTS\OPEN_CV\datasets\UCSD_Anomaly_Dataset.v1p2\UCSDped1\Train\Train001"
 # Get all image names
 image_files = sorted(os.listdir(sequence_path))
 
